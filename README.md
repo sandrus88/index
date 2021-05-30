@@ -7,7 +7,7 @@ Di seguito un elenco con tutti i progetti che ho creato durante questa fase. Alc
 * Fondamenti di Java e OOP
   - [Java Gently Book Examples](https://github.com/sandrus88/javagentlyexamples.git) - Tutti gli esercizi del libro [Java Gently](https://books.google.be/books/about/Java_Gently.html?id=lVIPAQAAMAAJ&redir_esc=y) di Judy Bishop
   - [GiocoDel15](https://github.com/sandrus88/GiocoDel15.git) - Implementazione del gioco [15 puzzle](https://en.wikipedia.org/wiki/15_puzzle)
-  - [java8exam](https://github.com/sandrus88/java8exam.git) - Progetto con esercizi tratti dai test cases del [enthuware](https://enthuware.com/java-certification-mock-exams/oracle-certified-associate/ocajp-1z0-808) della certificazione Oracle OCA [1Z0-808](https://education.oracle.com/java-se-8-programmer-i/pexam_1Z0-808).
+  - [java8exam](https://github.com/sandrus88/java8exam.git) - Progetto con esercizi tratti dai test cases del [simulatore](https://enthuware.com/java-certification-mock-exams/oracle-certified-associate/ocajp-1z0-808) della certificazione Oracle OCA [1Z0-808](https://education.oracle.com/java-se-8-programmer-i/pexam_1Z0-808).
 * [Maven](https://github.com/sandrus88/project_mvn.git) - Cos'è Maven e come usarlo per creare progetti Java.
 * [hello-world JSP/Servlet](https://github.com/sandrus88/hello-world-web.git) - Progetto con semplici pagine JSP/Servlet.
 * [hello-world JSP/Servlet + Maven](https://github.com/sandrus88/hello-world-web-maven.git) - Stesso progetto JSP/servlet di sopra configurato con Maven.
